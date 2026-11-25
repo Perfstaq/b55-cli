@@ -1,0 +1,17 @@
+{
+  "name": "b55-cli",
+  "version": "0.4.2",
+  "description": "B55 candidate CLI: send a privacy-safe summary of your coding work for a job application. Your code never leaves your computer.",
+  "type": "module",
+  "bin": {
+    "b55-cli": "bundle/b55.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perfstaq/b55-cli.git"
+  }
+}
